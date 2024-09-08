@@ -1,12 +1,12 @@
 //UBAH UBAH DISINI BRO JANGAN LUPA SUBREK YT DELTA TECH//
 require("./all/module")
-global.owner = "6285133270996" 
+global.owner = "2348022159244" 
 global.namaCreator = "RinnZxD" 
 global.autoJoin = false
 global.antilink = false
 global.versisc = '2.0'
 global.codeInvite = ""
-global.isLink = 'wa.me/6285133270996' 
+global.isLink = 'wa.me/2349015097028' 
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
 global.packname = "BOTZ RINN BUG" 
